@@ -1,0 +1,21 @@
+body
+{
+    background-color:rgb(227, 167, 197);
+    margin:0%;
+    padding:0%;
+}
+
+h1{
+    color: rgb(227, 167, 197);
+}
+
+.mari {
+    color: blueviolet;
+} 
+
+nav {
+    background-color: rgb(141, 54, 203);
+    color: rgb(227, 167, 197);
+    margin-top:-3vh;
+    padding:1.5%;
+}
